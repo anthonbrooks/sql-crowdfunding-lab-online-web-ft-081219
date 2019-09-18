@@ -1,0 +1,1 @@
+INSERT INTO projects VALUES ('car', 'transportation', 25000, '09/14', '11/22')
